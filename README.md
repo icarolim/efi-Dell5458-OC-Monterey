@@ -26,3 +26,8 @@ Não Funciona:
 - HDMI (Não Testado)
 - AirPlay (Não Testado)
 
+
+
+✨Agradecimentos:✨
+- Grupo Hackintosh Brasil (Facebook)
+- Vinicius Guerra
