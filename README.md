@@ -15,6 +15,7 @@ Wi-Fi/Bluetooth: Qualcomm Atheros / Intel Dual Band
 
 Funcionando:
 - Wifi (Intel: Alta Velocidade/ Atheros: Velocidade Minima)
+- Ethernet
 - Audio (Saída e Entrada de Áudio)
 - Facetime / iMessage
 - Câmera Integrada
